@@ -2,9 +2,9 @@
 
 **Aspiring AI/ML Engineer** from Chennai, India · B.Tech CSE (AI&ML) @ VIT · Graduating June 2026
 
-I build ML systems that work beyond notebooks — anomaly detection pipelines on 1.3M records, speech therapy platforms for kids, and serverless cloud applications.
+I build ML systems that work beyond notebooks; anomaly detection pipelines on 1.3M records, speech therapy platforms for kids, and serverless cloud applications.
 
-### 🔬 What I've Built
+### What I've Built
 
 | Project | What it does | Key metric |
 |---------|-------------|------------|
@@ -13,7 +13,7 @@ I build ML systems that work beyond notebooks — anomaly detection pipelines on
 | [**License Plate Recognition**](https://github.com/roshnrf/License-Plate-Recognition-AWS) | Serverless CV on AWS (Lambda → Rekognition → DynamoDB) | Event-driven, auto-scaling |
 | [**FreshStock AI**](https://github.com/roshnrf/FreshStock-AI---Smart-Inventory-Management-System) | ML-driven inventory optimization for grocery stores | **87.3%** forecast accuracy |
 
-### 🛠 Tech Stack
+### Tech Stack
 
 ```
 Languages    → Python, Java, C++, SQL, JavaScript
@@ -23,13 +23,13 @@ Databases    → PostgreSQL, DynamoDB, Supabase, Redis
 Tools        → Git, Streamlit, Gradio, Pandas, NumPy
 ```
 
-### 📊 Currently
+### Currently
 
-- 🧠 Exploring **AI Agents**, **Explainable AI**, and **Autonomous Workflows**
-- 🔍 Seeking **full-time ML/AI & SWE roles** starting June 2026
-- ✍️ Writing on [**Medium**](https://medium.com/@rosh003)
+- Exploring **AI Agents**, **Explainable AI**, and **Autonomous Workflows**
+- Seeking **full-time ML/AI & SWE roles** starting June 2026
+- Writing on [**Medium**](https://medium.com/@rosh003)
 
-### 📫 Let's Connect
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rosh003)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181822?style=flat&logo=googlechrome&logoColor=white)](https://roshnrf.github.io)
