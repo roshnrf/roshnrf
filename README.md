@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer | Data Science | Python Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Building+ML+systems+that+solve+real+problems;FastAPI+%2B+TensorFlow+%2B+scikit-learn;Chasing+a+Master's+in+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Building+ML+systems+that+solve+real+problems;FastAPI+%2B+TensorFlow+%2B+scikit-learn;Always+shipping+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,8 +15,7 @@
 
 - 🎓 B.Tech graduate, VIT Chennai (degree certificate arriving August 2026)
 - 🧠 Focused on **Machine Learning**, **Data Science**, and backend systems
-- 🌍 Actively applying for a **Master's in Germany** — September intake
-- 💼 Building production-grade ML + full-stack projects while I apply
+- 💼 Building production-grade ML + full-stack projects
 - ⚡ Fun fact: I'd rather debug a model at 2 AM than leave a bug unexplained
 
 ---
@@ -70,4 +69,4 @@
   <a href="https://github.com/roshnrf"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>Open to Master's opportunities in Germany — always happy to talk ML, backend systems, or research.</i></p>
+<p align="center"><i>Always happy to talk ML, backend systems, or research.</i></p>
