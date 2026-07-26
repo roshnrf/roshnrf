@@ -1,3 +1,10 @@
+<h1 align="center">Roshan A Rauof</h1>
+<h3 align="center">AI/ML Engineer · Voice AI & Indic Language Systems</h3>
+
+<p align="center">Building ML systems that work beyond notebooks.</p>
+
+---
+
 ### About Me
 
 - 🎓 B.Tech CSE (AI & ML), VIT Chennai — degree certificate arriving Aug/Sept 2026
@@ -26,9 +33,9 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🗣️ **[Scheme Sahayak Voice Assistant](https://github.com/roshnrf/scheme-sahayak-voice-assistant)** | Multilingual (Hindi + Tamil) voice assistant for scheme eligibility, with hallucination guardrails on low-confidence retrieval | Pipecat · Sarvam AI · LangChain · FAISS |
-| 🧵 **[StoryWeaver](https://github.com/roshnrf/StoryWeaver)** | ASR and multilingual pipeline for Indic languages | Python · `[fill in ASR stack]` |
+| 🧵 **[StoryWeaver](https://github.com/roshnrf/StoryWeaver)** | AI speech-therapy platform for kids (ages 4–6) — interactive storytelling for pronunciation practice with real-time feedback | Python · Whisper · Gemini · Streamlit |
 | 🕵️ **[PIRS](https://github.com/roshnrf/PIRS)** | Insider threat / anomaly detection system | Python · TensorFlow · scikit-learn · SHAP |
-| 🎙️ **[ArticuPlay](https://github.com/roshnrf/ArticuPlay)** | `[fill in description]` | `[fill in stack]` |
+| 🎙️ **[ArticuPlay](https://github.com/roshnrf/ArticuPlay)** | Speech-therapy app for children with Childhood Apraxia of Speech — LoRA-fine-tuned Whisper scores pronunciation at phoneme level | Python · Whisper · LoRA |
 
 ---
 
