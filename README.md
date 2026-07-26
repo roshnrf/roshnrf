@@ -1,50 +1,52 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2E86C1&height=180&section=header&text=roshnrf&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI/ML%20Engineer%20%C2%B7%20Voice%20AI%20%26%20Indic%20Language%20Systems&descAlignY=62&descSize=18" />
+<h1 align="center">Roshan A Rauof</h1>
+<p align="center">AI/ML Engineer · Voice AI & Indic Language Systems</p>
+
+<br>
+
+<p align="center"><code>roshan@github ~ $ ./contributions.sh</code></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=650&lines=Building+voice+agents+for+Indic+languages;ASR+%2B+RAG+%2B+real-time+C+systems;Currently+at+DRDO%2C+Bengaluru" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-building-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/based_in-Bengaluru,_IN-2E86C1?style=flat-square" />
-  <img src="https://img.shields.io/github/followers/roshnrf?label=followers&style=flat-square&color=2E86C1" />
+  <img src="https://ghchart.rshah.org/2E86C1/roshnrf" alt="roshnrf's contribution graph" width="100%"/>
 </p>
 
 <br>
 
-```yaml
-whoami:
-  name:       Roshan A Rauof
-  role:       AI/ML Engineer — Voice AI & Indic NLP
-  employer:   DRDO, Bengaluru
-  education:  B.Tech CSE (AI & ML), VIT Chennai
-  focus:      [ASR, Multilingual Pipelines, RAG, Real-time C Systems]
-  stack:      [Python, C, LangChain, FAISS, Pipecat, Sarvam AI]
+<p align="center"><code>roshan@github ~ $ whoami</code></p>
 
-currently_working_on:
-  - Multilingual (Hindi + Tamil) voice assistant for gov scheme eligibility
-  - Real-time C systems @ DRDO — SIP/RTP, POSIX syscalls
-  - ASR pipelines for low-resource Indic languages
+<table>
+<tr>
+<td width="45%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=roshnrf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
+
+</td>
+<td width="55%" valign="top">
+
+```
+roshan@github
+
+Now          AI/ML Engineer @ DRDO, Bengaluru
+Edu          B.Tech CSE (AI & ML), VIT Chennai
+
+— Stack —
+AI / ML      Python, LangChain, FAISS, TensorFlow, scikit-learn
+Systems      C, POSIX syscalls, SIP/RTP
+Focus        ASR, Multilingual NLP, RAG
+
+— Highlights —
+• Multilingual (Hindi+Tamil) voice assistant
+  for gov scheme eligibility
+• Real-time C systems @ DRDO
+• ASR pipelines for low-resource Indic languages
 ```
 
-<br>
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<sub>Pipecat / Sarvam AI have no shields.io logo yet — add as plain-text badges once you want them in.</sub>
+</td>
+</tr>
+</table>
 
 <br>
 
-### 📌 Featured Projects
+<p align="center"><code>roshan@github ~ $ ./projects.sh</code></p>
 
 <table>
 <tr>
@@ -83,24 +85,9 @@ Insider threat / anomaly detection system.
 
 <br>
 
-### 📊 GitHub Stats
+<p align="center"><code>roshan@github ~ $ ./links.sh</code></p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=roshnrf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshnrf&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshnrf&theme=tokyonight&hide_border=true" />
-</p>
-
-<br>
-
-### 📫 Connect
-
-<p align="left">
   <a href="mailto:roshanabdlrf03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/roshnrf"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:1a1b27&height=100&section=footer" />
