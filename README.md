@@ -1,5 +1,5 @@
 <h1 align="center">Roshan A Rauof</h1>
-<h3 align="center">AI/ML Engineer · Voice AI & Indic Language Systems</h3>
+<h3 align="center">AI/ML Engineer </h3>
 
 <p align="center">Building ML systems that work beyond notebooks.</p>
 
