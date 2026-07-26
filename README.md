@@ -1,10 +1,3 @@
-<h1 align="center">Roshan A Rauof</h1>
-<h3 align="center">AI/ML Engineer · Voice AI & Indic Language Systems</h3>
-
-<p align="center">Building ML systems that work beyond notebooks.</p>
-
----
-
 ### About Me
 
 - 🎓 B.Tech CSE (AI & ML), VIT Chennai — degree certificate arriving Aug/Sept 2026
