@@ -1,8 +1,8 @@
 ### About Me
 
-- 🎓 B.Tech CSE (AI & ML), VIT Chennai — degree certificate arriving Aug/Sept 2026
-- ⚙️ AI/ML Engineer @ DRDO, Bengaluru — real-time C systems, SIP/RTP, POSIX syscalls
-- 🎙️ Focused on voice AI, ASR, and Indic-language NLP pipelines
+- 🎓 B.Tech CSE (AI & ML), VIT Chennai - degree certificate arriving Aug/Sept 2026
+- ⚙️ AI Intern @ DRDO, Bengaluru - real-time C systems, SIP/RTP, POSIX syscalls
+- 🎙️ Build projects on voice AI, ASR, and Indic-language NLP pipelines
 - 🛠️ Building multilingual voice agents with retrieval guardrails against hallucination
 
 ---
